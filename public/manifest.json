@@ -1,0 +1,9 @@
+{
+	"short_name": "Vodafone Case Study",
+	"name": "Web site created using create-react-app for Vodafone Case Study by Batuhan Orhan",
+	"icons": [],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
