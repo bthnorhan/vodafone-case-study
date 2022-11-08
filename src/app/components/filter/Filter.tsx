@@ -1,4 +1,4 @@
-import React, { MouseEvent, useState, useContext, useEffect, ChangeEvent } from 'react';
+import React, { useState, useContext, useEffect, ChangeEvent } from 'react';
 import { Context } from '../../context';
 
 import { FilterProps } from './Filter.props';
