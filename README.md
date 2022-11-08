@@ -5,3 +5,5 @@ Chart.js
 Prop-types
 Eslint
 Prettier
+Jest
+React-router-dom

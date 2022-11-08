@@ -1,0 +1,17 @@
+@use '../../../styles/variables';
+
+.graphicContainer {
+	display: flex;
+	flex-direction: row;
+	flex-grow: 1;
+	background-color: variables.$white;
+	border-radius: .5rem;
+	margin-top: variables.$margin-top;
+
+	.graphic {
+		display: flex;
+		width: 75%;
+		border-right: 1px solid rgb(100, 100, 100);
+		padding: 2rem;
+	}
+}

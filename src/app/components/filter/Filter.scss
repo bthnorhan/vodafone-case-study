@@ -1,0 +1,25 @@
+@use '../../../styles/variables';
+
+.filterContainer {
+	display: flex;
+	align-items: center;
+
+	margin-left: 1rem;
+
+	span {
+		color: rgb(160, 160, 160);
+		margin-right: 1rem;
+		font-size: 1.3rem;
+	}
+
+	select {
+		width: 480px;
+		height: 72px;
+
+		background-color: rgb(157, 207, 246);
+		border: 1px solid rgb(83, 156, 211);
+		color: rgb(121, 171, 213);
+		padding: 0 1.5rem;
+		font-size: 1.3rem;
+	}
+}
