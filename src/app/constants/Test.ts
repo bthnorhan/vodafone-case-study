@@ -27,9 +27,3 @@ export const testData = [
 		lessons: 215,
 	},
 ];
-
-export const TestComponent = () => {
-	const { data } = useContext(Context);
-
-	return <span>{data?.[0].lessons}</span>;
-};
