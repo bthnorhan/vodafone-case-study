@@ -1,7 +1,7 @@
 
 # Vodafone Case Study
 
-This project implements the web app for HepsiBurada Case Study. I chose to use Context Api for global state managemen and I used raw data from assets folder.
+This project implements the web app for Vodafone Case Study. I chose to use Context Api for global state managemen and I used raw data from assets folder.
 
 ## Run Locally
 
